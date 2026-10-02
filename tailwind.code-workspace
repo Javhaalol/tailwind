@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../JS ARRAY"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Playtime"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project 1"
+	}
+}
